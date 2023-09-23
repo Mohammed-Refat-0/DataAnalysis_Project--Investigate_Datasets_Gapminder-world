@@ -1,4 +1,4 @@
-# Data-Analysis Project--Investigate Datasets from Gapminder world
+# Data-Analysis Project --Investigate Datasets from Gapminder world
 ## Description
 In this project, I went through the data analysis process, including wrangling, cleaning, merging, analyzing, and visualizing multiple datasets obtained from Gapminder world using Python libraries NumPy, pandas, and Matplotlib in jupyter notebook, to try and answer the question of: **for a certain year, is their any relationship between GDP per capita (dependent variable) and population trends (total population, population density and annual population growth, independent variables) and if there is, which independent variable is the most correlated to the dependent variable and is there any correlation between the independent variables.**
 ## Data source and files
